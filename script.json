@@ -1,0 +1,48 @@
+[
+
+    {
+        "name" : "mgmg",
+        "age" : 20,
+        "married" : false,
+        "children" : null
+    },
+
+    {
+        "name" : "aungaung",
+        "age" : 21,
+        "married" : false,
+        "children" : null
+    },
+
+    {
+        "name" : "kyawkyaw",
+        "age" : 22,
+        "married" : false,
+        "children" : null
+    },
+
+    {
+        "name" : "nayaung",
+        "age" : 20,
+        "married" : false
+    },
+
+    {
+        "name" : "myokyaw",
+        "age" : 21,
+        "married" : false
+    },
+
+    {
+        "name" : "aungko",
+        "age" : 22,
+        "married" : false
+    },
+
+    {
+        "name" : "techking",
+        "age" : 23,
+        "married" : false
+    }
+
+]
